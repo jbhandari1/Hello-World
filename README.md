@@ -2,4 +2,4 @@
 For CS LN CLASS
 READ_Me
 
-Hello, I am Janak Bhandari, I did made a new branch and showing the changes
+Hello, I am Janak Bhandari, I did make a new branch and I am showing the changes
